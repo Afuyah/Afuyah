@@ -1,106 +1,94 @@
-Henry Afuya Bulimo 👨‍💻
+# Henry Afuya Bulimo 👨‍💻
+**Software Systems Developer | Full-Stack Developer | API Architect**  
+Mombasa, Kenya | afuya.b@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/henry-afuya-bulimo) 
 
-Software Systems Developer
-🌍 Mombasa, Kenya
-📧 afuya.b@gmail.com
+---
+
+## 🔹 About Me
+
+I am a **Software Systems Developer** specializing in **full-stack web development**, **cloud architecture**, and **API design**. With a focus on **scalability**, **security**, and **performance**, I architect solutions that grow with your business. I have a strong track record of **building secure, scalable applications**, integrating **cloud platforms**, and delivering solutions using modern frameworks like **Flask**, **React**, and **PyQt**.
+
+My expertise spans **API development**, **JWT-based authentication**, **cloud deployment**, and **Agile project management**. I thrive on tackling complex technical challenges and delivering impactful, reliable software solutions that improve user experience and business efficiency.
+
+---
+
+## 🔹 Core Competencies
+
+- **Languages**: Python, JavaScript (ES6+), HTML5, CSS3
+- **Frameworks & Technologies**: Flask, React.js, Flask-SocketIO, PyQt, Bootstrap
+- **Databases**: PostgreSQL, MySQL, SQLite, Database Optimization
+- **Cloud & DevOps**: AWS, Heroku, DigitalOcean, Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins)
+- **Security**: JWT Authentication, OAuth 2.0, Encryption, Secure API Design
+- **Tools**: Git, Postman, Visual Studio Code, Docker, Kubernetes
+- **Project Management**: Agile (Scrum, Kanban), Waterfall
+
+---
+
+## 🔹 Key Projects
+
+### 🌐 **Nourisha Groceries E-Commerce Platform**  
+*Lead Software Developer*  
+- Architected a secure and scalable e-commerce platform integrating **payment gateways** (M-Pesa, Stripe, PayPal).  
+- Implemented **JWT-based authentication** and **role-based access control** for enhanced security.  
+- **Optimized performance**, resulting in a **30% increase in user retention**.
+
+### 🚀 **Real-Time Auction System**  
+*Full Stack Developer*  
+- Built a dynamic auction platform with **Flask-SocketIO** and **AJAX** for real-time bidding.  
+- Integrated **JWT** for session management and ensured transactional integrity for live bidding.  
+- Delivered features on-time through Agile sprints.
+
+### 🏡 **Coastal Region Property Rental Platform**  
+*Full Stack Developer*  
+- Designed a property rental platform tailored for Kenya’s coastal region.  
+- Integrated **secure payment systems**, **booking management**, and **dynamic pricing models**.  
+- Streamlined user experience and operational efficiency.
+
+### 🛒 **Salesta POS System (Open Source)**  
+*Contributor*  
+- Contributed to the development of **Salesta POS System**, focusing on **API security** with **JWT authentication**.  
+- Enhanced **data access control** and implemented best practices for high-availability systems.
+
+---
+
+## 🔹 Payment Integration Expertise
+
+- **M-Pesa**: Integrated **mobile payments** via STK Push, enabling mobile transactions in East Africa.  
+- **Stripe**: Configured **Stripe Elements** and **Webhooks** for global payment processing.  
+- **PayPal**: Integrated **PayPal REST API** for seamless international transactions.
+
+---
+
+## 🔹 Open Source Contributions
+
+### 💻 **Salesta POS System**  
+- Contributed to **API security** and **JWT-based authentication** for secure transactions.  
+- Implemented access control and contributed to system **scalability**.
+
+---
+
+## 🔹 Why Collaborate with Me?
+
+I deliver more than just code. I create solutions that **scale**, **adapt**, and **secure** your business. My focus is on delivering fast, efficient, and future-proof systems that ensure long-term success. Whether you are **building a product from scratch**, **optimizing an existing solution**, or **integrating advanced security features**, I bring the expertise and attention to detail needed to make your project succeed.
+
+Let’s collaborate and build **innovative software solutions** that solve real-world challenges and push the boundaries of what’s possible.
+
+---
+
+## 🔹 Get In Touch
+
+Feel free to reach out for collaborations, open-source contributions, or to discuss the next big thing in technology!  
+📧 **afuya.b@gmail.com**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/henry-afuya-bulimo)**  
 
 
 ---
 
-Overview
+## 🔹 Technical Tools & Software
 
-I am a Software Systems Developer with expertise in full-stack development, API design, and cloud deployment. I specialize in crafting scalable, secure, and performance-driven systems that ensure data integrity and an exceptional user experience. With a focus on modern frameworks, cutting-edge technologies, and cloud solutions, I help businesses transform complex requirements into high-performance systems that scale seamlessly.
-
-
----
-
-Technical Skills 🛠️
-
-Languages:
-🔹 Python, JavaScript (ES6+), HTML5, CSS3
-
-Frameworks & Libraries:
-🔹 Flask, React.js, Flask-SocketIO, PyQt, Bootstrap
-
-Databases:
-🔹 PostgreSQL, MySQL, SQLite (Optimized Queries & Design)
-
-Cloud & DevOps:
-🔹 AWS, Heroku, DigitalOcean, Docker, CI/CD (GitHub Actions, Jenkins)
-
-Security:
-🔹 JWT Authentication, OAuth 2.0, Encryption, Secure API Design
-
-Tools:
-🔹 Git, Postman, Visual Studio Code, Docker, Kubernetes
-
-
----
-
-Key Projects 🚀
-
-Nourisha Groceries E-Commerce Platform 🛒
-
-Role: Lead Developer
-
-Architected a scalable, secure platform with integrated payment gateways (M-Pesa, Stripe, PayPal).
-
-JWT-based authentication and role-based access control for enhanced security and user management.
-
-Optimized system performance, resulting in a 30% increase in user retention.
-
-
-Real-Time Auction System 💰
-
-Role: Full Stack Developer
-
-Built a real-time auction platform with Flask-SocketIO for live updates and AJAX for asynchronous operations.
-
-Integrated JWT security for session management, ensuring transactional integrity in real-time bidding.
-
-
-Coastal Region Property Rental Platform 🏡
-
-Role: Full Stack Developer
-
-Developed a scalable property rental platform tailored for the Kenyan coastal region.
-
-Integrated secure payment systems, dynamic pricing models, and booking management for seamless user experiences.
-
-
-Salesta POS System (Open Source) 💳
-
-Role: Contributor
-
-Contributed to API development with a focus on security and scalability using JWT.
-
-Improved data access control and implemented best practices for high-availability systems.
-
-
-
----
-
-Payment Integration Expertise 💸
-
-M-Pesa: Integrated mobile payments via STK Push, enabling mobile money transactions in East Africa.
-
-Stripe: Configured Stripe Elements and Webhooks for global payment processing and secure transactions.
-
-PayPal: Implemented PayPal REST API to facilitate seamless global payments.
-
-
-
----
-
-Why Collaborate with Me? 🤝
-
-I don’t just deliver code—I architect solutions that scale with your business. Whether you're building a product or optimizing an existing system, I focus on delivering high-value, secure, and performance-oriented solutions. I bring expertise in secure coding practices and Agile methodologies to ensure your project evolves and thrives.
-
-Let’s create software that drives business growth, enhances efficiency, and solves real-world challenges!
-
-
----
-
-Let’s Connect! 🌐
-
-I’m always open to discussing new projects, contributing to open-source, and collaborating on innovative solutions. Reach out if you’re looking for a developer who can bring your ideas to life with secure, scalable, and efficient systems.
+- **Version Control**: Git, GitHub  
+- **CI/CD**: GitHub Actions, Jenkins  
+- **Cloud Platforms**: AWS, Heroku, DigitalOcean, Render, Railway  
+- **Security**: JWT Authentication, OAuth 2.0, SSL/TLS, Encryption  
+- **Project Management**: Agile (Scrum, Kanban), Waterfall
